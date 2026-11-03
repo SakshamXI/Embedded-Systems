@@ -1,10 +1,10 @@
 
-
+<h1 align="center">OledDisplay</h1>
 <p align="center">
   <img src="docs/demo.gif" alt="OledDisplay demo GIF" width="480">
 </p>
 
-<h1 align="center">OledDisplay</h1>
+
 
 <p align="center">
   A lightweight Arduino library for <b>SSD1306 128x64 OLED</b> displays with <b>I2C</b> and <b>SPI</b> support.

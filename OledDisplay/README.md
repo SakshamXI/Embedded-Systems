@@ -1,10 +1,5 @@
 
 <h1 align="center">OledDisplay</h1>
-<p align="center">
-  <img src="docs/demo.gif" alt="OledDisplay demo GIF" width="480">
-</p>
-
-
 
 <p align="center">
   A lightweight Arduino library for <b>SSD1306 128x64 OLED</b> displays with <b>I2C</b> and <b>SPI</b> support.
@@ -15,6 +10,12 @@
   <img alt="Platform" src="https://img.shields.io/badge/platform-ESP32%20%7C%20Arduino-green.svg">
   <img alt="Display" src="https://img.shields.io/badge/display-SSD1306%20128x64-lightgrey.svg">
 </p>
+
+<p align="center">
+  <img src="docs/demo.gif" alt="OledDisplay demo GIF" width="480">
+</p>
+
+
 
 ---
 

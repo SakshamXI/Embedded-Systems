@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map for OledDisplay
+#######################################
+
+# Datatypes (KEYWORD1)
+OledDisplay	KEYWORD1
+OledDisplay_SPI	KEYWORD1
+OledDisplay_I2C	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+sendCommand	KEYWORD2
+sendData	KEYWORD2
+setAddressWindow	KEYWORD2
+update	KEYWORD2
+clearDisplay	KEYWORD2
+setPower	KEYWORD2
+setContrast	KEYWORD2
+drawPixel	KEYWORD2
+drawHorizontalLine	KEYWORD2
+drawVerticalLine	KEYWORD2
+drawLine	KEYWORD2
+drawRectangle	KEYWORD2
+drawTriangle	KEYWORD2
+drawCircle	KEYWORD2
+fillBuffer	KEYWORD2
+invertBuffer	KEYWORD2
+invertDisplayHardware	KEYWORD2
+startScrolling	KEYWORD2
+stopScrolling	KEYWORD2
+drawBitmap	KEYWORD2
+drawChar	KEYWORD2
+drawString	KEYWORD2
+
+# Constants (LITERAL1)
+SCROLL_RIGHT	LITERAL1
+SCROLL_LEFT	LITERAL1
